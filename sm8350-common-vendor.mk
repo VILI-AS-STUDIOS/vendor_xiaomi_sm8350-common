@@ -667,6 +667,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8350-common/proprietary/vendor/lib64/vendor.xiaomi.hardware.citsensorservice@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.citsensorservice@1.1.so \
     vendor/xiaomi/sm8350-common/proprietary/vendor/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so \
     vendor/xiaomi/sm8350-common/proprietary/vendor/lib64/libtinyxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinyxml.so \
+    vendor/xiaomi/sm8350-common/proprietary/vendor/lib64/libmiXmlParser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmiXmlParser.so \
     vendor/xiaomi/sm8350-common/proprietary/vendor/lib64/libmi-stc-HW-modulate.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmi-stc-HW-modulate.so \
     vendor/xiaomi/sm8350-common/proprietary/vendor/lib64/libdlbdsservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdlbdsservice.so \
     vendor/xiaomi/sm8350-common/proprietary/vendor/lib64/libdisplayfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdisplayfeature.so \
